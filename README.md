@@ -25,3 +25,4 @@
 22. Pytorch对YOLO v5的一个实现：https://github.com/ultralytics/yolov5
 23. 全栈系统学习cs的各个方面的教程：https://github.com/jwasham/coding-interview-university
 24. 号召抵制996，呼吁955的一个项目，还有别的这样的项目的超链接：https://github.com/996icu/996.ICU
+25. C++游戏编程库Box2d, 实现物体的碰撞：https://github.com/erincatto/box2d
