@@ -21,7 +21,7 @@
 
 ### CV
 - 使用python实现那本cv绿书《计算机视觉》的代码： https://github.com/Nixon-Aguado/Feature-Extraction-and-Image-Processing-Book-Examples
-- 谷歌开源的面部、瞳孔、手指定位的实现：https://github.com/google/mediapipe
+- 谷歌开源的面部、瞳孔、手指等定位的实现：https://github.com/google/mediapipe
 
 ### Cpp
 - C++游戏编程库Box2d, 实现物体的碰撞：https://github.com/erincatto/box2d
